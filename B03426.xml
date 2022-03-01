@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The golden fleece revived, &amp;c. By J.F.</title>
+            <author>J. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03426</idno>
+            <idno type="STC">Wing F38</idno>
+            <idno type="STC">ESTC R176906</idno>
+            <idno type="EEBO-CITATION">51617671</idno>
+            <idno type="OCLC">ocm 51617671</idno>
+            <idno type="VID">175224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175224)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2722:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The golden fleece revived, &amp;c. By J.F.</title>
+                  <author>J. F.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Proposes that the poor be put to work in the wool trade, thus providing both employment for the poor and increased domestic production of woolen goods.</note>
+                  <note>Three blank leaves follow text.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Employment --  England --  Early works to 1800.</term>
+               <term>Wool industry --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:175224:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>Columbia Vniversity in the City of New York <hi>LIBRARY</hi>
+            </p>
+            <figure>
+               <head>SIGILLVM · COLLEGII · COLVMBIAE · NOVI · EBORACI <g ref="char:yhwh">יהוה</g>
+               </head>
+               <q>IN LVMINE TVO VIDEBIMVS LVMEN <bibl>I P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>T <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </bibl>
+               </q>
+            </figure>
+            <p>THE SELIGMAN LIBRARY OF ECONOMICS</p>
+            <p>PURCHASED BY THE UNIVERSITY 1929</p>
+            <pb facs="tcp:175224:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:175224:2"/>
+            <!-- PDF PAGE 52 -->
+            <pb facs="tcp:175224:2"/>
+            <!-- PDF PAGE 52 -->
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175224:3"/>
+            <!-- PDF PAGE 53 -->
+            <pb facs="tcp:175224:3"/>
+            <!-- PDF PAGE 53 -->
+            <p>THE GOLDEN FLEECE REVIVED, <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>J. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON<g ref="char:punc">▪</g>
+               </hi> Printed in the Year 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:175224:4"/>
+            <!-- PDF PAGE 54 -->
+            <p>
+               <label>III.</label> Whether the general Idleneſs in the meaner ſort of People, either not working at all, or elſe at Exceſſive Rates, doth not render our Cloath or Stuff-makers uncapable to make the Manufacture at as eaſie Rates as Foreigners do, therefore cannot Vend as cheap as they in Foreign Marts?</p>
+            <p>To this latter Cauſe, I ſhall endeavour to apply a Reme<g ref="char:EOLhyphen"/>dy that may both keep our <hi>Wooll</hi> at home, and work it out: <hi>Viz.</hi>
+            </p>
+            <p>
+               <label>I.</label> An Act of Parliament to Erect Workhouſes in all Counties more or leſs, ſuitable to the Extent or Commodiouſ<g ref="char:EOLhyphen"/>neſs of each County for Manufacture, on the Bublick Charges.</p>
+            <p>
+               <label>II.</label> That in theſe Workhouſes ſeveral Wards or Apart<g ref="char:EOLhyphen"/>ments ſhould be for Male Children from Six years and upwards, Female from Five and upwards. Over the Males an Expert Clothier, over the Females a Grave Matron, skilled in Spin<g ref="char:EOLhyphen"/>ning, Knitting, <hi>&amp;c.</hi> All the Males to be releaſed at 24 years of Age, the Females at 21, to obviate the Reproach of Bon<g ref="char:EOLhyphen"/>dage.</p>
+            <p>
+               <label>III.</label> That inſtead of the Act of 43 of <hi>Elizabeth,</hi> this Act ſhould require the Churchwardens and Overſeers of all Pariſhes, to ſend in all Children that are Chargeable, or likely to be ſo at the Ages aforeſaid, into the ſaid Workhouſes, and to pay in part of the Monies collected in each Pariſh half yearly, to defray the Charge of the ſaid Operatories, and to ſend in Wooll, Flax, Hemp, <hi>&amp;c.</hi> to ſet the ſaid Poor on work.</p>
+            <p>
+               <pb facs="tcp:175224:4"/>
+               <!-- PDF PAGE 54 -->
+               <label>IV.</label> That every Pariſh ſhould ſend once in the Year one able Perſon to examine the Accompts of the Houſe, and en<g ref="char:EOLhyphen"/>quire into the Behaviour of the Governors and Officers there<g ref="char:EOLhyphen"/>of, and to place and diſplace, as they ſhall ſee Cauſe.</p>
+            <p>
+               <label>V.</label> A pound Rate of 12 <hi>d. per l.</hi> on all Lands and He<g ref="char:EOLhyphen"/>reditaments, Perſonal Eſtate, &amp;c. over <hi>England</hi> and <hi>Wales,</hi> may probably defray the Charge of building Workhouſes; And the 2 <hi>d.</hi> Year 6 <hi>d. per l.</hi> as aforeſaid, may defray the Charge of Looms, Stockeards, Hand-Cards, and all working Tools and <g ref="char:V">Ʋ</g>tenſils for the ſaid Houſe.</p>
+            <p>
+               <label>VI.</label>That after the Houſes are thus erected and ſetled, the Poor all over the Kingdom will be ſo leſſened, that a ſmall Charge will maintain theſe younger ſort of Children in work, and take off ſo much Charge of the Pariſhes, that they will have little to do, but to relieve the Aged and Impotent; which may be done by voluntary Collections, and charitable Benevo<g ref="char:EOLhyphen"/>lences in every Pariſh.</p>
+            <p>The Benefit that will certainly attend the whole King<g ref="char:EOLhyphen"/>dom by the aforeſaid means, are theſe: <hi>Viz.</hi>
+            </p>
+            <p>
+               <label>I.</label> It will take off the Charge of all indigent People in all Parts of the Land, that they ſhall be inured with Work, before they be corrupted with Idleneſs and Thievery.</p>
+            <p>
+               <label>II.</label> It will be a means to work out all our Wooll that now either rots at Home, or is tranſported by deſperate Men that have little to venture but their Lives, they only making the Gain, the innocent Graſier getting nothing but the hazard of an Information againſt him, when the Tranſporter is caught,
+<pb facs="tcp:175224:5"/>
+               <!-- PDF PAGE 55 -->who palliates his Fact with Perjury, and diſappoints the Seller.</p>
+            <p>
+               <label>III.</label> What hath only been pretended to by the Clothiers and Workers of Wooll, <hi>viz.</hi> the whole and ſole Manufacture of all <hi>Engliſh, Iriſh,</hi> and <hi>Scotiſh</hi> Wooll, may in one Year or two, by the aforeſaid means, be happily accompliſh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and never till then ſhall we be able to underſel the <hi>French, Fleming,</hi> and all other Foreign Manufacturors, our Work being done cheaper than theirs, being carried on not only by private Hands, but the publick Purſe of the Kingdom, and by that which is now worſe than loſt. I mean relieving the Poor in Idleneſs.</p>
+            <p>
+               <label>IV.</label> This will raiſe the price of Wooll, and keep it up to that degree, that Tenants may be enabled to pay their Rents, and pre1118
+ſerve the Marſhes, Fenns, and Sheep Walks from fur<g ref="char:EOLhyphen"/>ther Spoil and Deſtruction, which the many late Years of Cheap<g ref="char:EOLhyphen"/>neſs hath expoſed to Fire and Ruine: For in moſt Wooll-grow<g ref="char:EOLhyphen"/>ing Countries, their beſt Breeding Walks are ſo waſted by <hi>De<g ref="char:EOLhyphen"/>vonſhiring,</hi> that all ſucceeding Ages will feel the Inconve<g ref="char:EOLhyphen"/>nience, and our preſent time ſuffers in the abundance of Corn and Grain thereby produced, that our Arable Farms, inſtead of bringing in Rent, ſcarcely defrays the Charge of Agriculture.</p>
+            <p>I would not have it thought that I have forgotten to have the ſturdy Vagrants and Beggars ſet on work that ſwarm in all parts of this Land, provoking God by a lewd Life, ſtarving the Poor, by eating the Bread of their Neigh<g ref="char:EOLhyphen"/>bours Charity, the Houſes of Corrections ſhould be filled with theſe, and there are enough already erected, if well governed, and ſuch Maſters appointed over them, as ſhould not only moderately correct them, but carefully provide Work of all ſorts as ſuch People are capable of, and
+<pb n="5" facs="tcp:175224:5"/>
+               <!-- PDF PAGE 55 -->no great Charge will they put the Country to, if Care be taken that they eat no more than their Wages, for Chri<g ref="char:EOLhyphen"/>ſtianity tells us, <hi>Such as do not work, ſhould not eat.</hi>
+            </p>
+            <p>I do never expect to ſee <hi>England</hi> flouriſh, until it returns unto this old and good way of Induſtry; For as the dili<g ref="char:EOLhyphen"/>gent Hand makes Rich, ſo the Sluggard will fall into ex<g ref="char:EOLhyphen"/>treme Want; And as Poverty brings particular Men into Contempt, ſo a Kingdom will no longer retain Reputation, than it can advance the Price of its Native Growth. And for the clamorous Clothiers and Merchants that ſpend Vollies of Complaints upon Tranſporters, do not once offer any way to work our Wooll cheap, but trouble all Parliaments with making Acts againſt the Tranſporters, in order to have the ſole Monopoly of Wooll, and bring<g ref="char:EOLhyphen"/>ing all the Graſiers in <hi>England</hi> under their Girdles. If they be truly Ingenious, (as I believe ſome of them are not ſo unreaſonable as the Merchants and Staplers are) they will readily comply with theſe Propoſals, there being nothing in them may prejudice their Trade, but truly com<g ref="char:EOLhyphen"/>paſs their pretended Deſign to ſet the Poor on Work, and advance the Price of Wooll, and the Dearer that is, the greater will the Price of all their Manufactures be both at Home and Abroad. And there is no Cloathworker but confeſſes, the dearer Wooll, the more the Price of Manu<g ref="char:EOLhyphen"/>factures advance alſo. Upon theſe Conſiderations, a Free Trade will certainly be effected.</p>
+            <p>Thus have I caſt in my Mite towards the Recovery of a ſinking Manufacture, and a decaying Kingdom, humbly imploring Almighty God to bleſs all Endeavors of this kind, that may proceed from better Hands, and apter Heads than his that is the leaſt in <hi>Politicks</hi> and <hi>Georgicks.</hi>
+            </p>
+            <closer>
+               <signed>J. F.</signed>
+            </closer>
+            <pb facs="tcp:175224:6"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:175224:6"/>
+            <!-- PDF PAGE 56 -->
+         </div>
+      </body>
+   </text>
+</TEI>
